@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#shop_xc90-recharge"
+}

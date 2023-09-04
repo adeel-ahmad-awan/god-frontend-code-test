@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".react-multi-carousel-item"
+}
