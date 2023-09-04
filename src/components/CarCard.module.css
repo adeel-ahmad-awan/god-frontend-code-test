@@ -1,0 +1,47 @@
+/* CarCard.module.css */
+.productListCard {
+  width: 17rem;
+  border: none;
+}
+
+.productListCardTitle {
+  color: #959595;
+}
+
+.productListCardText {
+}
+
+.productListCardTextModalName {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.productListCardTextModalType {
+  color: #959595;
+  font-size: 15px;
+}
+
+.productListCardImg {
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.productListCardButtonLearnParent {
+  text-align: right;
+}
+
+.productListCardButtonShopParent {
+  text-align: left;
+}
+
+.productListCardButton {
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0;
+}
+
+.productListCardButtonSvg {
+  width: 23px;
+  border: none;
+}

@@ -1,0 +1,9 @@
+body {
+  background: white;
+  padding: 20px;
+}
+
+.car_nav_form_group {
+  margin: 5px;
+  padding-left: 10px;
+}
