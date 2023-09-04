@@ -17,6 +17,7 @@ Follow these steps to set up the project:
 3. Change your terminal's working directory to the downloaded project folder. `cd god-frontend-code-test/`
 4. Open the project in your preferred code editor. If you have Visual Studio Code installed, you can open the project by running the following command in the terminal: `code .`
 5. Install the required packages by running the command `npm install`
+6. If you are facing an issue with the command `npm install` run the following command `npm install --force`
 
 #### Running the Project
 
@@ -30,7 +31,8 @@ Please ensure you follow these setup instructions carefully to ensure a smooth s
 
 The tests for this project is in another project "Testing". To setup the testing run the following step
 
-1. To test the project, run the following command `npm run wdio`
+1. "To execute project tests, use the command `npm run wdio` while the project is active."
 
-This will execute the tests for the Volvo Cars (Global Online Digital) React coding test project.
-Please ensure you follow these instructions carefully to set up and run the testing project effectively.
+ This will execute the tests for the Volvo Cars (Global Online Digital) React coding test project.
+ The project was tested in Chrome and Firefox.
+ Please ensure you follow these instructions carefully to set up and run the testing project effectively."
