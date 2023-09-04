@@ -12,9 +12,9 @@ Ensure that Node.js is installed on your computer, preferably version `v18.17.1.
 
 Follow these steps to set up the project:
 
-1. Download and unzip the project code files.
-2. Open your computer's terminal or Command Prompt.
-3. Change your terminal's working directory to the downloaded project folder. `cd /path/to/project`
+1. Open your computer's terminal or Command Prompt and change dirsctory to your desired directory for project setup.
+2. Clone the project repository from GitHub using the following command `git clone git@github.com:adeel-ahmad-awan/god-frontend-code-test.git`
+3. Change your terminal's working directory to the downloaded project folder. `cd god-frontend-code-test/`
 4. Open the project in your preferred code editor. If you have Visual Studio Code installed, you can open the project by running the following command in the terminal: `code .`
 5. Install the required packages by running the command `npm install`
 
@@ -30,11 +30,7 @@ Please ensure you follow these setup instructions carefully to ensure a smooth s
 
 The tests for this project is in another project "Testing". To setup the testing run the following step
 
-1. unzip the testing project
-2. Open your computer's terminal or Command Prompt.
-3. Change your terminal's working directory to the testing project folder. `cd /path/to/testing/project`
-4. Install the required packages by running the command `npm install`
-5. After installing the required Node.js modules, start the testing by running the following command: `npm run wdio`
+1. To test the project, run the following command `npm run wdio`
 
 This will execute the tests for the Volvo Cars (Global Online Digital) React coding test project.
 Please ensure you follow these instructions carefully to set up and run the testing project effectively.
